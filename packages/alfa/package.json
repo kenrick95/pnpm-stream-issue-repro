@@ -1,0 +1,11 @@
+{
+  "name": "alfa",
+  "description": "description",
+  "authors": "author",
+  "version": "1.0.0",
+  "main": "pathToMain",
+  "scripts": {
+    "lint": "echo 'ok'"
+  },
+  "dependencies": {}
+}
